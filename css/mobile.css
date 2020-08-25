@@ -1,0 +1,112 @@
+@media only screen and (max-width: 975px) {
+
+    #blog .card {
+        width: 100% !important;
+
+    }
+}
+
+@media only screen and (max-width: 965px) {
+
+    #signup-form h1 {
+        font-size: 2rem !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 965px) {
+
+
+    #signup-form p {
+        font-size: 14px !important;
+        margin-right: 2rem;
+
+    }
+}
+
+@media only screen and (max-width: 965px) {
+
+    #login-form h1 {
+        font-size: 2rem !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 965px) {
+
+
+    #login-form p {
+        font-size: 14px !important;
+        margin-right: 2rem;
+
+    }
+}
+
+@media only screen and (max-width: 785px) {
+    .login-bg {
+        display: none !important;
+
+    }
+
+    .form {
+        width: 50%;
+        margin-left: 5rem;
+
+    }
+
+
+}
+
+@media only screen and (max-width: 805px) {
+    .signup-bg {
+        display: none !important;
+
+    }
+}
+
+@media only screen and (max-width:395px) {
+    .form-data input {
+        width: 70%;
+    }
+
+
+
+    .form-data select {
+        width: 80%;
+    }
+
+    .form-data textarea {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width:298px) {
+    .form-data input {
+        width: 70%;
+    }
+
+    .form-data select {
+        width: 60%;
+    }
+
+    .form-data textarea {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+
+    #myBtn {
+        left: 75%;
+
+    }
+}
+
+@media only screen and (max-width: 515px) {
+
+    #faq .box {
+        width: 70%;
+    }
+}
